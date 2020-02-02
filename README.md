@@ -1,0 +1,1 @@
+# Geracao_imagem_por_texto
